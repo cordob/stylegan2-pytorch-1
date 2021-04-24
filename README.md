@@ -1,3 +1,5 @@
+## 11g ram +  gpu
+
 ## Simple StyleGan2 for Pytorch
 [![PyPI version](https://badge.fury.io/py/stylegan2-pytorch.svg)](https://badge.fury.io/py/stylegan2-pytorch)
 
