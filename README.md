@@ -2,8 +2,9 @@
 
 
 ```
-stylegan2_pytorch --data /path/to/images --name my-project-name --results_dir /path/to/results/dir --models_dir /path/to/models/dir
+stylegan2_pytorch --data land512 --name land --results_dir result --models_dir result --network-capacity 100 
 
+gpu ram 8g정도 점유 
 ```
 ## Simple StyleGan2 for Pytorch
 [![PyPI version](https://badge.fury.io/py/stylegan2-pytorch.svg)](https://badge.fury.io/py/stylegan2-pytorch)
