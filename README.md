@@ -5,6 +5,9 @@
 stylegan2_pytorch --data land512 --name land --results_dir result --models_dir result --network-capacity 100 
 
 gpu ram 8g정도 점유 
+
+
+풍경화 샘플 링크 : https://www.kaggle.com/arnaud58/landscape-pictures
 ```
 ## Simple StyleGan2 for Pytorch
 [![PyPI version](https://badge.fury.io/py/stylegan2-pytorch.svg)](https://badge.fury.io/py/stylegan2-pytorch)
